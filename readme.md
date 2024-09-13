@@ -1,8 +1,7 @@
 # Computer Vision Model for food
 
 AlexNet and VGGnet model trained to recognize pictures of sushi, pizza and steak. 
-The food_modelV6 in the trained_model folder reached an accuracy of around 91% with a
-training of 30 epochs.
+One trained model following AlexNet reached an accuracy of 91% after training for 30 epochs
 
 ## Technology
 
